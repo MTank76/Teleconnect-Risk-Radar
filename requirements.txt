@@ -1,0 +1,16 @@
+# Data Handling & Analysis
+pandas
+numpy
+
+# Machine Learning Models
+scikit-learn
+xgboost
+joblib
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Web Framework
+streamlit
