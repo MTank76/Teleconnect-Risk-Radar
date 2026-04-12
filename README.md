@@ -1,6 +1,6 @@
-# Teleconnect-Risk-Radar: Project Documentation
+# 📡 Teleconnect-Risk-Radar: Project Documentation
 
-This repository contains a comprehensive machine learning framework designed to predict customer churn for **Telewire AI**, a telecommunications provider. By leveraging historical customer demographics, service usage patterns, and billing data, this application provides high-accuracy churn risk analysis and actionable business insights through an interactive dashboard.
+This repository contains a comprehensive machine learning framework designed to predict customer churn for **Telco**, [a fictional dataset provided by IBM]. By leveraging historical customer demographics, service usage patterns, and billing data, this application provides high-accuracy churn risk analysis and actionable business insights through an interactive dashboard.
 
 -----
 
